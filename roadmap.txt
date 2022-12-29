@@ -1,0 +1,16 @@
+Backend Training Roadmap - Faizan
+
+1. JSON
+2. What is API / What is REST / Supported inputs / supported outputs
+3. Express
+(a) What is express
+(b) why to use expres
+(c) what is routing
+(d) middlewares
+(e) req response
+(f) view hello world of express and add new routes to it locally
+4. Mongo basic
+5. Lodash
+6. Promises / async await
+7. Git
+8. One CRUD App

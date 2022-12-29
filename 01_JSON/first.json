@@ -1,0 +1,12 @@
+{
+    "name": "Faizan",
+    "age" : 23,
+    "isAdmin": true,
+    "License": null,
+    "ShopItem": ["food", "clothes", "shoes"],
+    "myObj": {
+        "name": "JavaScript",
+        "color": "Yellow",
+        "ShopItem": ["food", "clothes", "shoes"]
+    }
+}
